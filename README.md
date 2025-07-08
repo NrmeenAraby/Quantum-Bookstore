@@ -3,4 +3,4 @@ Quantum Bookstore is a simple, extensible Java-based system for managing an onli
 
 ## Running Screenshot
 
-![Console Output](screenshots/Screenshot_console_output.png)
+![Console Output](https://github.com/NrmeenAraby/Quantum-Bookstore/blob/main/screenshots/Screenshot_console_output%20.png)
